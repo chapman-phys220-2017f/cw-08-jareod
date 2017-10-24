@@ -14,7 +14,7 @@ The main task this week is to make sure you are caught up on all your work, and 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**It was useful to see what implentation of animations are available to us.    It was also incredibly interesting to see how symbolic python worked and how simple it made working through problems. **
+It was useful to see what implentation of animations are available to us.    It was also incredibly interesting to see how symbolic python worked and how simple it made working through problems. 
 
 ## Honor Pledge
 
