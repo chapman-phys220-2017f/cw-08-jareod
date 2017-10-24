@@ -2,7 +2,7 @@
 
 **Author(s):** **CHANGEME**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-08-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-08-jareod.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-08-jareod)
 
 ## Specification
 
