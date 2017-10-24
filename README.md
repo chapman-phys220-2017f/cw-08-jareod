@@ -1,6 +1,6 @@
 # PHYS220 CW 8
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jarod Penniman, Jared Love**
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-08-jareod.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-08-jareod)
 
@@ -14,7 +14,7 @@ The main task this week is to make sure you are caught up on all your work, and 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**It was useful to see what implentation of animations are available to us.    It was also incredibly interesting to see how symbolic python worked and how simple it made working through problems. **
 
 ## Honor Pledge
 
@@ -25,4 +25,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Jarod Penniman, Jared Love**
